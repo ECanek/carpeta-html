@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+  
+    <title>contactame</title>
+</head>
+<body>
+    <p>Telefono 5536445589</p>
+    <p>correo canek@hotmail.com</p>
+    
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
+    <title>Mi curriculum</title>
+</head>
+<body>
+    <h1>Eric Canek Flores Maldonado</h1>
+    <img src="./imagen/Eric Canek Flores Maldonado.jpg" height="200" alt="foto" />
+    <h2>Resumen</h2>
+    <p>Soy una persona curiosa y con ganas de aprender con experiencia en servicio al cliente</p>
+    <hr />
+    <h2>Educación</h2>
+    <p>Tecnico en informatica administrativa-Preparatoria para trabajadores del D.F (2000-2003)</p>
+    <p>Gastronomia-Instituto Gastronomico CORBUSE (2011-2013)</p>
+    <hr/>
+    <h2>Experiencia laboral</h2>
+    <ul>
+        <li><h3>Encargado administrativo de Tienda dedicada a los productos alimenticios,limpieza y hogar  </h3></li>
+        <p>Diciembre 2003-presente</p>
+        <li>Ecargado de compras de producto</li>
+        <li>Resolver quejas y problemas con los clientes</li>
+        <li>Registro de entradas y salidas del producto</li>
+
+    </ul>
+    <hr/>
+    <h2>Habilidades</h2>
+    <ul>
+        <li>Atención al cliente &#11088; &#11088; &#11088; &#11088;</li>
+        <li>habilidades administrativas &#11088; &#11088; &#11088;</li>
+        <li>paqueteria office &#11088; &#11088; &#11088;</li>
+    </ul>
+    <hr/>
+    <h2>Otro</h2>
+    <ul>
+        <li><a href="./Mis aficiones.html">Mis aficiónes</a></li>
+        <li><a href="./Contactame.html">Contactame</a></li>
+    </ul>
+    <hr/>
+    <footer>Canek Flores Reservados todos los derechos</footer>
+
+
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
+    <title>Aficiones</title>
+</head>
+<body>
+    <h1>Aficiones</h1>
+    <p>Mis pasatiempos son variados, me guta el cine, leer, los videojuegos, me gusta mucho el dibujo aunque ya casi no lo practico</p>
+    
+</body>
+</html>
